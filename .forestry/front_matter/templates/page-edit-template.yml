@@ -1,6 +1,5 @@
 ---
 pages:
-- edit-page.md
 - _posts/ads.md
 hide_body: false
 fields:
