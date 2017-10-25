@@ -3,9 +3,6 @@ pages:
 - edit-page.md
 hide_body: false
 fields:
-- type: textarea
-  config:
-    wysiwyg: true
 - type: text
   name: label
   label: Label
