@@ -6,3 +6,9 @@ fields:
 - type: textarea
   config:
     wysiwyg: true
+- type: text
+  name: label
+  label: Label
+  description: Description of label
+  config:
+    required: false
